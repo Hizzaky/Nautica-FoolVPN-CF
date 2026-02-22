@@ -2,9 +2,9 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 let serviceName = "";
-let APP_DOMAIN = "nautica-foolvpn-cf.pages.dev";
+let APP_DOMAIN = "";
 
-let prxIP = "178.128.80.43";
+let prxIP = "";
 let cachedPrxList = [];
 
 // Constant
